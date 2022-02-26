@@ -1,0 +1,850 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Innocency and the blood of the slain souldiers, and people, mightily complaining, and crying out to the Lord, and the people of the land, against those forty knights and burgesses, or thereabouts, that sit in the House of Commons. For the violation of our capital fundamental laws and liberties, and those capital obligations mentioned in this my letter, in capital letters. Or a letter to an eight yeers speaker of the House of Commons. / By Cap. William Bray, from his indurance, illegal, un-Christian, and cruel gaol in Windsor Castle.</title>
+            <author>Bray, William, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 77 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77280</idno>
+            <idno type="STC">Wing B4304</idno>
+            <idno type="STC">Thomason E568_12</idno>
+            <idno type="STC">ESTC R206251</idno>
+            <idno type="EEBO-CITATION">99865425</idno>
+            <idno type="PROQUEST">99865425</idno>
+            <idno type="VID">117665</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77280)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117665)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E568[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Innocency and the blood of the slain souldiers, and people, mightily complaining, and crying out to the Lord, and the people of the land, against those forty knights and burgesses, or thereabouts, that sit in the House of Commons. For the violation of our capital fundamental laws and liberties, and those capital obligations mentioned in this my letter, in capital letters. Or a letter to an eight yeers speaker of the House of Commons. / By Cap. William Bray, from his indurance, illegal, un-Christian, and cruel gaol in Windsor Castle.</title>
+                  <author>Bray, William, 17th cent.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeer 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Commons.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117665:1" rendition="simple:additions"/>
+            <p>INNOCENCY AND THE Blood of the ſlain Souldiers, and People, mightily complaining, and crying out to the Lord, and the People of the Land, Againſt thoſe Forty Knights and Burgeſſes, or thereabouts, that ſit in the Houſe of COMMONS.</p>
+            <p>For the violation of our Capital Funda<g ref="char:EOLhyphen"/>mental Laws and Liberties, and thoſe Capital Obligations mentioned in this my Letter, in capital Letters.</p>
+            <p>Or a LETTER to an Eight yeers SPEAKER of the Houſe of COMMONS.</p>
+            <p>By Cap. <hi>William Bray,</hi> from his indurance, illegal, un-Chriſtian, and cruel Gaol in <hi>Windſor</hi> Caſtle.</p>
+            <q>
+               <bibl>
+                  <hi>Exod. 5.21.</hi>
+               </bibl> And <hi>Pharaoh</hi> ſaid, Who is the Lord, that I ſhould obey his voice to let <hi>Iſrael</hi> go? I know not the Lord (I know my unrighteous power and force) neither will I let <hi>Iſrael</hi> go.</q>
+            <p>
+               <hi>London,</hi> Printed in the Yeer 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:117665:2"/>
+            <pb n="3" facs="tcp:117665:2"/>
+            <head>A LETTER To an Eight yeers SPEAKER OF THE Houſe of <hi>Commons.</hi>
+            </head>
+            <opener>
+               <salute>Maſter Speaker,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Did determine in reſignation to the will of the Lord, not to write unto your Houſe any more; but the Lord doth make it free, to make you the more inexcuſable, and alſo with this peradventure in my own reaſon, That God may change your ſpirits; and ſithence, I have intelligence, as if there were an Act ſtiled, <hi>Grace coming forth from your Houſe, unto the Levellers and Priſoners;</hi> therefore, now I am free beyond my own expectations from you, and intentions in my ſelf.</p>
+            <p>It is ſaid in Scripture, <hi>Iſaiah</hi> 14.20 That the ſeed of evil doers ſhall never be re<g ref="char:EOLhyphen"/>nowned; the good people of the Land had certainly reaſon to expect, That you that have deſtroyed, and diſhonored others for injuſtice, ſhould walk in the path of renown your ſelves; whether you have done ſo, let the whole world judg; yea, whether you have done ſo ſince you have cut off the King, let the world judg.</p>
+            <p>I have read, That there was a Temple of Honor among the <hi>Romans,</hi> and before it a ſtately Porch, dedicated to <hi>Vertue;</hi> to notifie, That in that Common-wealth, there was no hope of Dignity, but to tread in the path of deſert. And <hi>Ariſtotle</hi> diſcourſing of Honor, makes four parts thereof; the firſt of Rich<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, the ſecond of Blood, the third of Learning, the fourth of Vertue; and to the two laſt, he doth deſcribe the firſt place of true Gentry, and one ſpeaking thereof, ſaith, <hi>Becauſe Boors may be rich, and Rake<g ref="char:EOLhyphen"/>bels may be of ancient blood; but Vertue and Knowledg cannot harbor, but where God and Nature hath left their Noble endowments;</hi> but you would have the world think you are Chri<g ref="char:EOLhyphen"/>ſtians, which is a name, that hath its denomination from that unction of the Spirit, and yet you walk beneath the Law of Nature: Are you honorable then?</p>
+            <pb n="4" facs="tcp:117665:3"/>
+            <p>And <hi>Ariſtotle</hi> diſcourſing of Temperance and Fortitude, ſaith, That Temperance is a Vertue whereby a man governs himſelf according to Law, and that Fortitude is a Ver<g ref="char:EOLhyphen"/>tue by which a man carries himſelf honorably, and according to the Laws in time of danger.</p>
+            <p>And I remember that the Parliament alwayes told the King, that if h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would ſubſcribe to the L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ws and Liberties of the peoples peace and ſafety, they would make him a moſt glorious King by which I do infer, there is no true honor but in that way, yet what oc<g ref="char:EOLhyphen"/>caſion do you give to the Kings party to ſay, would theſe have been faithful <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the King, that are perfidious to their own friends, and deſtroy them in their Liberties contrary to the Laws of God, Nature, and the Nation? the King had ground to ſuſpect them, they will ſay.</p>
+            <p>Magiſtracie when they act by the <hi>rules of th ir own wills,</hi> they do not act as Magiſtrates but as Tyrants ſo King <hi>James</hi> his Speech to the Parliament at <hi>White H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll</hi> 1609 and the firſt part of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arliaments Declarations, 150. And Dr. <hi>Stoughton</hi> in his Bo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k of Ser<g ref="char:EOLhyphen"/>mons Preached before King <hi>James,</hi> ſpeaking of wicked Magiſtrates, ſaies, <hi>Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill by Autho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ity, and y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t ask<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the peoples money for th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir pains.</hi>
+            </p>
+            <p>God never conſtituted Au<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hority, but gave precepts and bounds to that authority,<note place="margin">
+                  <hi>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a.</hi> 30 18. <hi>Iſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 6<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 8. <hi>Pſal.</hi> 82.61. <hi>Exod.</hi> 18.21. and 23 26.8. <hi>Deut.</hi> 1.16.17. and 16 19. &amp; 25.1. 2 <hi>Chron.</hi> 19.6.7. <hi>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a.</hi> 1.23, 24. <hi>J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r</hi> 5.28, 29 &amp; 22.16, 17, 18. <hi>Amos</hi> 5 12. &amp; 6.12, 14 <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ca.</hi> 3.9.11 <hi>Z<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c.</hi> 8.16, 17.</note> as I declared to you in my Letter, <hi>D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut.</hi> 16 17. and in nine other places of Scripture there recited, but they that care not for one, will not care for nine; b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſid<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, there a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e many more that I could recite; Perſonal Authority or Magiſtra<g ref="char:EOLhyphen"/>cie are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cially bounded by juſt Laws, and they are to do unto others, as they would have others to do unto them, fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this is the Law and the Prophets, as Chriſt ſaith not to deal unjuſtly, as they would not be dealt unjuſtly with; not to commit murder, as they themſelves would not be murdered: <hi>Adomb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z k</hi> found the righte<g ref="char:EOLhyphen"/>teous God, a juſt executioner of the Law of like for like upon him, <hi>th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eeſcore and t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Kings having their thumbs and great to<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s cut off, ga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hered their meat und r my table; As I hav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> done, ſo God</hi> (ſaith the <hi>Pag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n) hath requited me,</hi> and <hi>Jam.</hi> 2 13.</p>
+            <p>And Mr. Solicitor St. <hi>John</hi> ſaid in Parliament, (of King, Lords, and Commons) againſt the Earl of <hi>Strafford, That an Arbitrary man is an</hi> Achan, <hi>a miſerable accurſed thing, &amp;c.</hi> And my Lords, ſaith he, <hi>Fruſtra legis auxilium inv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cat qui in leg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m committit; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or he that will not ſuffer others to have Law, why ſhou'd he have any himſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lf? why ſhould not that be done to him that h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> would have done to others, and calls Arbitrary men V<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>mine, Polcats, Foxes, Wolves, B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſts of Prey; (Perſonal Gov rnment is to k<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ep Vermine, Polcats, Foxes, Wolves, Lyons, &amp;c. f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vouring, but not to b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuch th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lves) and,</hi> ſaith he, <hi>it was never accounted cruelty or foule play to knock Foxes and Wolves on th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> head as th y may be found, becauſe,</hi> ſaith he, <hi>they be beaſts of pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y:</hi> O Lord, what a thundring zealous Common wealths man was this then to preſerve the people from ſpoil?</p>
+            <p>Mr. <hi>Pym</hi> ſaid againſt the Earl of <hi>Straffo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ary and unlimited power is let up, a way is open f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſecurity, adv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt, and encourag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ment of evil, and thoſe that will be inſtrument<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of any unjuſt commands, and that thoſe that make a conſcience of the Laws and Li<g ref="char:EOLhyphen"/>berties of the p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ople are unpaſſible for imploy<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nt and ſubj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct to much jealouſie and danger.</hi>
+            </p>
+            <p>And the Army in their Declarations and Grandees, peculiarly when they <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>end and ear a Parliament to peeces, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y bring Juſtice and Righteouſneſs in the mou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, <hi>page</hi> 10. complained, <hi>That the friends to the Nation and them, were dragged to Goales,</hi> [but now a Goal, and an illegal one too, is my por<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion] <hi>That the Commanders that did not ſtand faſt
+<pb n="5" facs="tcp:117665:3"/> in their integrity ſhould be marked with a brand of infamy for ever, as traytors to their Coun<g ref="char:EOLhyphen"/>try, and enemies to the Army</hi> [but now they have the power, no Traitors] <hi>June</hi> 9 <hi>p.</hi> 14. <hi>The, glorious adminiſtration of Juſtic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; without Juſtice no comfort of life</hi> [or ſo much as life it ſelf but according unto the pleaſure of ſome men, ruling meerly according to will and power, but now power in them uſed worſe, is not the ſame] <hi>Pag.</hi> 39 40.41.42 <hi>That Juſtice and Righteouſneſs then was one of the witneſſes of God</hi> [then it is now the ſame] <hi>That they were no Emiſſary A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>my, h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red to ſerve any Arbitrary power of State</hi> [but their Arbitrary power of State] <hi>That th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y were ſenſible of complaints, Arbitrarineſs, Oppreſſions, and Injuſtice</hi> [but now a man cannot have Juſtice from theſe they have left in the Houſe [for them] <hi>That they would not have an abſolute or Arbitrary power f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>und in any]</hi> could not wiſh to have it in any whom they moſt confided in, or who ſhould appear moſt of their opinion and Princi<g ref="char:EOLhyphen"/>ples [is this truth?] <hi>That they were for Parliamentary authority rightly conſtituted</hi> [when wil it be performed, when they pleaſe, or when the people pleaſe?] <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd that they ſhould not be during pleaſure, or hav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> an unlimited power, and ſo an advantage to perpetuate injuſtice without end or remedy</hi> [but now the party they left, muſt] <hi>Pag.</hi> 61. <hi>that a liberty of d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhould be in the Houſe of Commons, that the people might ſee who was fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul</hi> [I wiſh we had the Grandees Speeches Printed to the Nation ſince they made ſuch a purge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>that the Priv<g ref="char:EOLhyphen"/>ledges of Parliament ſhould not be extended to private wrong, or publique raſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> [but their power and priviledg may extend to private and publique wrong without controul] <hi>be<g ref="char:EOLhyphen"/>cauſe Parliament Priviledges as well as r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yall Prerogative may be perverted and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>buſed</hi> [but theirs not] <hi>Charged ſeverall Memb rs, that they inv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ded, infring<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, and indeavour<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d to over<g ref="char:EOLhyphen"/>throw the rights of the people, and obſtructed Juſtice, to the damage of many Commoners</hi> [if ſo then, is it not much more now?] And their laſt Remonſtrance from St <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bans, pag.</hi> 10. <hi>Cried out the people w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re mad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to depend main<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y upon the King for all</hi> [and are not the people made to depend upon them for all, whether Juſtice or no Juſtice] <hi>that his Intereſt was made neceſſary to all, that other pretences were but made uſe of to ſerve his ends, end to make an eaſie way to ſet up him and his Intereſt above all</hi> [let rational m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n judg whether their practiſe is not ſo.] <hi>Page</hi> 16 17. <hi>That no Common C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> l or Parliaments ſhould check him;</hi> [Dare the Parliament check him when I cannot have a hearing againſt him?] <hi>that all or<g ref="char:EOLhyphen"/>bitrary powers might be exerciſed at pleaſure by himſelf, and ſuch as he pleaſed to d r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ſame unto</hi> [do not the Grandees tread in the ſame ſteps aboundingly?] <hi>that ſnares and chains were laid upon conſcienci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us and z<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alous men to countenanc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> blinde reverence of per<g ref="char:EOLhyphen"/>ſons ſit for Popery and Slav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry</hi> [is not the Generals &amp;c. end the ſame according to his works?] <hi>p.</hi> 21. <hi>rend ing it a b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and of d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhonor and infamy in him, to pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r ſuch a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> had a mix<g ref="char:EOLhyphen"/>ture of ambition and v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ndring them fit to <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d greatn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs for the injoying ſome ſhare t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erein to th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mſelv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> [are not ſuch m n <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> only d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rling<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> witneſs their actions;] for me to ſpe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k to theſe more then golden wo ds, is but <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ram in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> are.</hi>
+            </p>
+            <p>Oh then <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igh and mighty God and Judge! Judge thou the cauſe of thy people, re<g ref="char:EOLhyphen"/>member the blood that hath been ſpilt for our Laws and Liberties to purchaſe our peace and ſafety And <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir. Solicitor <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eok,</hi> your Orator, in his bo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k ſt lled <hi>K<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g Charls his Caſe,</hi> which will be an everlaſting monument againſt you, if you continue to walk unjuſtly, <hi>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<g ref="char:punc">▪</g>
+               </hi> 3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaith he, the King deported himſelf as a God, and ſaith he, innocent blood will aff ight more then twelve legions of Devils, (do not they deport them<g ref="char:EOLhyphen"/>ſelves as Gods when they act as living above Law?) Do you do juſtice that you might live unjuſtly? did you cut <hi>him</hi> off to ſend him to be accountable to God, that would not be accountable unto man, that you might live here in the ſame principle and pra<g ref="char:EOLhyphen"/>ctice as unaccountable unto men? would it not be juſt with God if you tread in the ſame pathes, to inflame and raiſe up the ſpirits of your brethren the <hi>Commoners,</hi> to
+<pb n="6" facs="tcp:117665:4"/> make you accountable unto God alſo, <hi>Are not the Lords wayes paſt finding out, and is not he juſt in all his Judgments? pag</hi> 38. that an accurſed principle of Tyranny lodged with<g ref="char:EOLhyphen"/>in him <hi>(viz.) to be accountable to none but to God, which have turned our waters of LAW into blood;</hi> have not the fruits of the ſame principles (though they have pretended other principles, as the <hi>King</hi> did, <hi>(viz.) (That his Monarchy was not an abſolute, but a well bounded Monarchy, by Law)</hi> been actually ſeen in them? and are not they in a leading way to turn water of <hi>Law</hi> into blood and blood, <hi>pag.</hi> 38. that he had been of Coun<g ref="char:EOLhyphen"/>ſell againſt felons and priſoners, but that he never moved the Court to Judgment a<g ref="char:EOLhyphen"/>gainſt any felon, or to keep any man in priſon, but he trembled at it in his thoughts, as thinking it would be eaſier to give an account of mercy and indulgence, then of any thing that might look like rigour: but now my ſpirits ſaith he, are of another temper; but you imp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſon the innocent againſt <hi>Law, Reaſon, Chriſtian Principles,</hi> your own <hi>De<g ref="char:EOLhyphen"/>clarations,</hi> the Vowes, Covenants, Ingagements, and imprecations of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arliament, and you have proceeded higher then any to ingage you to Iuſtice: <hi>viz. the blood of the King to b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot, page</hi> 42. that ſentence was not only againſt one Tyrant, but tyranny it ſelf; therefore ſaith he, if any of them ſhall turn Tyrants, or conſent to ſet up any kinde of Tyranny by a Law, or ſuffer any unmercifull domineering over the perſons, Conſciences, or eſtates of the free people of this Land, They have pronounced ſentence againſt them<g ref="char:EOLhyphen"/>ſelves; But do not they endeavor to ſecure themſelves againſt the Laws of heaven and nature; and to act by unreaſonableneſs, meer power and force? by which accurſed principle the Lord Jeſus, and all Chriſtians have been murthered formerly by corrupt Authority.</p>
+            <p>
+               <hi>Oh Lord ariſe, and judge, and behold,</hi> how they make v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yd the blood of thy people, and what is their <hi>declared zeal,</hi> and impartiall Juſtice upon the blood of the <hi>King</hi> come unto.</p>
+            <p>You have imprecated the wrath and vengeance of Heaven and Earth to light upon you, if you did not maintain the Fundamentall Laws and Liberties of the people, and call upon the people to ſay <hi>AMEN;</hi> and that you had no aimes at your ſelves, but wholly at the publique; ſee and compare together the firſt part of the book, <hi>Dec. pag.</hi> 17. 18. 214. 264. 266. 267 400. 462. 464. 466. 673. 588. 666 573. 692. Is not God juſt? I am troubled at your condition, though I rejoyce in my own.</p>
+            <p>Again, you have revoked one Faſt day, and made another; and declared that there was much guilt in taking Gods name in vain; And that there was a proneneſs to relapſe into the former condition of Tyranny and ſuperſtition; But I hope you did not reſolve it when you ſaid you were prone to it; And you deſire that God would heal the diviſion of your Land; But do you goe the way of God? And do not you divide, if you deal unjuſtly? The <hi>Kings Faſt</hi> was on a Friday, and he dealt unjuſtly; the <hi>Parliaments Faſt</hi> on a Wedneſday; and now you have changed the <hi>Faſt</hi> a day neerer to the <hi>Kings;</hi> If your injuſtice be the ſame, what materiall difference between a Thurſday, and a Fri<g ref="char:EOLhyphen"/>day <hi>Faſt?</hi> Doth not Arbitrarineſs and injuſtice cauſe diviſion? The <hi>Pſalmiſt</hi> ſaith, <hi>Pſ.</hi> 85.10. <hi>Righteouſneſs and Peace doth kiſs each other;</hi> and not Tyranny and peace, or policy and peace, <hi>Z<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch.</hi> 8 16, 17, 19 <hi>Execute ye the Judgment of truth and peace, love the truth and peace, Iſay</hi> 58 4, 5, 6. <hi>Zach.</hi> 7 5, 6. <hi>When ye faſted and mourned the fifth and ſ v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h mon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th even thoſe ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>venty years, did yee at all faſt unto me? and when ye d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at, and wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> did d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ink, d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d you not eat for your ſelves, and drink to your ſelves? Oh Lord</hi> ariſe, and judge between thy people and the Grandees of the peoples <hi>Army</hi> and <hi>Parliament,</hi> and oh Lord convert them if it be thy will; and let them not be any lon<g ref="char:EOLhyphen"/>ger as if th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y were ſupream to Iuſtice and Freedome, and let them be that in deed which they have been often in word.</p>
+            <pb n="7" facs="tcp:117665:4"/>
+            <p>Sir, Let me tell you, I have obſerved your Ordinance for obſervation of the <hi>Sabbath</hi> alſo, but this is alſo deluſive to the people; if you do not reſt from wickedneſs, arbitra<g ref="char:EOLhyphen"/>rineſs and cruelty, according to the conſtitution and end of authority, both by God and the people; for the Sabbath ſignifies a reſt to the people of God; What is a Magiſtrates keeping a Faſt or a Sabbath once a moneth, or a ſeventh day of a week, if he acts arbit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ari<g ref="char:EOLhyphen"/>neſs illegally and cruelly, contrary to the Laws of God, Nature, and the Land, ſix of the ſeven?</p>
+            <p>Thoſe three Students, and only three that I have read of Trinity Colledg in <hi>Cambridge</hi> that writ in your juſtification of your proceedings againſt the King, ſay, <hi>That when any man, or men, through depraved principles of tyranny uſurp over Conſcience, naturall or civill Rights, he loſeth the notion of a Magiſtrate, becauſe he goes contrary to the end of Go<g ref="char:EOLhyphen"/>vernment, of the fundamentall Laws of ſafety to the people; and when</hi> Res Publica <hi>comes to be</hi> Res Privata, <hi>it ceaſeth to be a Commonwealth, and is then tyranny.</hi>
+            </p>
+            <p>Again, I deſire you to conſider that the part of the Solemn Oath and Covenant, which you have taken which relates to the Rights, Freedoms, and Laws of the people, is juſt, unanſwerable, irrevokable, eſſentiall, ſubſtantiall, and binding; though the per<g ref="char:EOLhyphen"/>ſon of the King and Lords be taken away by you: do you intend to King it, and Lord it over our Laws and Liberties? <hi>Pſal.</hi> 15.1.4. <hi>Lord who ſhall abide in thy Tabernacl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>? he that ſwoareth to his own hurt, and changeth not.</hi>
+            </p>
+            <p>But you have ſworn the good (and not hurt) of the people, and your own good (and not hurt) in it, but if you leave the good of the people, and conſequently your own true honor and good, and act Arbitrarily and unfaithfully, you leave peace of conſcience to your ſelves, and peace and ſatisfaction to the people. I ſhould be glad for the peoples ſakes and your ſakes if you can be free from the guilt of Perjury in the ſight of the Lord and the people that are impartial; Good <hi>Ioſiah</hi> rent his cloaths when the Book of the Law was found, and when the Ordinances were not kept; and it was the Wiſdom, Juſtice, and Honor of the Parliament, in their Primitive conſtitutions, for which they had the incomparable love of the people, before they did divide, and ſubdivide into faction and parties, to inquire into the juſt Laws of the Nation, and into the higheſt Reaſon for in<g ref="char:EOLhyphen"/>largement of our freedoms, and complained againſt the King for exceeding the juſt li<g ref="char:EOLhyphen"/>mits of Honor and Law: but how ſhall the people be aſſured of the perfection of Free<g ref="char:EOLhyphen"/>dom by theſe men, when thoſe juſt and righteous Laws of God and Nature, and the Nation formerly and already made as Laws, and wrung from Polititians, Tyrants, Conquerors, Vſurpers, and contended for this eight or nine years unto precious blood, are ſo much violated?</p>
+            <p>Truly Mr. <hi>Speaker,</hi> let me tell you, we ſhall never have peace untill Authority come to lay down Intereſt, and to act as Magiſtracie, as Authority; What do Intereſts tend to, and meer power, but to murder and deſtruction, and to make a Nation miſerable, though one man great, full of war, and to make a ſecond <hi>Germany</hi> of <hi>England?</hi> Intereſts tend to nothing but to this <hi>(viz.)</hi> Suppoſe an <hi>Independent,</hi> it may be murdered to day, or un<g ref="char:EOLhyphen"/>juſtly dealt withall to his ruine, and the Inquiſition for the Innocent blood may be is ſe<g ref="char:EOLhyphen"/>cured by an Intereſt; A <hi>Presbyterian,</hi> it may be murdered to morrow, and the murder it may be ſecured by an Intereſt; had an <hi>Epiſcopal</hi> alſo, who though he hath, it may be juſt<g ref="char:EOLhyphen"/>ly paid his Fine and Compoſition for his Delinquencie, and is in Law and Reaſon ex<g ref="char:EOLhyphen"/>cluded as to matter of Power, according to the Judgments of Parliaments, and a juſt Agreement of the people, becauſe he hath uſed it againſt the peoples Laws and Liberties, yet he cannot have perſonal Juſtice in futurity according to Law and Reaſon, becauſe of Intereſts, and ſo a Nation is in the rode way to deſtruction; and then every Intereſt it
+<pb n="8" facs="tcp:117665:5"/> may be endevors (being enraged) to revenge the murder and injuſtice, becauſe they can<g ref="char:EOLhyphen"/>not have legal or judicial Judgment, and ſo all Intereſts are ſlaves to one Intereſt; and all are engaged againſt one (as well as may be) one againſt another; if any ſuch thing is up, called <hi>Intereſt,</hi> and act above, contrary unto, and without <hi>LAW.</hi>
+            </p>
+            <p>And truly Mr <hi>Speak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r,</hi> let me tell you<g ref="char:punc">▪</g> as I have already proved, and ſhall prove by Law, Reaſon<g ref="char:punc">▪</g> and Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſtianity, Thoſe fourty Gentlemen in the Houſe, or thereabouts, have committed me illegally, partially, and intereſſedly, contrary to CAPITAL Obligations of God to man, man to God, and mankinde, common, undeniable, in<g ref="char:EOLhyphen"/>diſput<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble, and binding Principles of NATURE, LAW, REASON, SCRIPTU<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ES, DECLARATIONS upon DECLARATI<g ref="char:EOLhyphen"/>ONS, IMPRECATIONS, OATHS, COVENANTS, CONSCIENCE, INGAGEMENTS, VICTORIES, VICTORIES, AGREEMENTS, FASTS, HONOR, the very name of PARLIAMENTS<note n="*" place="margin">Sabbaths, Magiſtrates, Gov<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nment, Wounds, Bloodſhed.</note>, BLOOD, BLOOD, both of friends and enemies; rendring a PARLIAMENT out of zeal for Juſtice. The blood of the <hi>KING</hi> declared to ſtand in the way of the peoples <hi>RIGHTS, FREEDOM, J<g ref="char:V">Ʋ</g>STICE, MERCY.</hi>
+            </p>
+            <p>
+               <hi>Juſt Laws</hi> are made to batter down all the walls of unmercifulneſs, arbitrarineſs, and cruelty, and to juſtifie <hi>Freedom;</hi> and the force of a <hi>Nation</hi> ſhould be to maintain the juſt <hi>Laws</hi> and <hi>Liberties</hi> of the people; the contrary is <hi>Cruelty</hi> and <hi>Murther.</hi>
+            </p>
+            <p>You have made the late <hi>KING</hi> a notable ſpectacle amongſt the rareſt examples of worldly fragility; and this was declared and pretended to be, for acting contrary to the <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ghts of the people,</hi> which engaged him unto abundance of blood for his own ſafety, though his extravagancies in <hi>Government</hi> and <hi>Arbitrarineſs</hi> amongſt the people, might have been compoſed certainly, if his end had not been to carry on an abſolute domina<g ref="char:EOLhyphen"/>tion over the peoples Laws, Liberties, and perſons: And the corruptions of his heart, and Government, and of his evil Councellors, cauſed jealouſies and fear of his own life and honor; whereas he might have had both, if he would have ſtooped to the Laws, and Liberties of the people, and the peoples Repreſentatives, and free Parliament; but his heart was hardened, as <hi>Pharaohs,</hi> for judgment. It is a ſad thing, when a man hath committed injuſtice, or murther, contrary to the plain inbred Light of Nature, and the Laws of Scripture, and Nations, and goes on to commit more and more murther, and injuſtice, for his <hi>perſonal ſafety;</hi> whereas, a Chriſtian had rather die in his innocency, then commit murther, or out of deſign, to do injuſtice.</p>
+            <p>The Law of <hi>England</hi> is ſaid to be <hi>extream tender,</hi> and <hi>favorable</hi> of a <hi>mans liberty</hi> and <hi>freedom.</hi> See Sir <hi>Edward Cooks</hi> 29. Chapter of <hi>Magna Charta,</hi> 2 <hi>part. Inſtit. ſol.</hi> 42. alſo 189 515. Becauſe the Gaol in the eye of the Law, is a bad or hard manſion or dwel<g ref="char:EOLhyphen"/>ing, 4 <hi>Edw.</hi> 3. <hi>cap.</hi> 3. <hi>They that will unjuſtly and arbitrarily impriſon, they are in a forward way to adde to their impiety, and to commit murder upon the people.</hi> Injuſtice is a Tyrants rode way to murder, and the harbenger of Tyrants in all ages: And I ſhall deſire you for your own ſakes, to avoyd that Rock of Injuſtice and Oppreſſion, for there are many eyes upon you, beſides the eyes of the eternal Majeſty of God.</p>
+            <p>And the ſin of blood is of a Skarlet Dye, and of a crying Nature, <hi>Gen</hi> 49.6, 7. <hi>O my ſoul, joyn not thou into their ſecret; unto their aſſembly, mine honor, be not thou united; for in their anger they ſlew a man, and in their ſelf will th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y digged down a wall. Curſed be their anger, for it was ſince; and their wrath, for it was cruel. I will divide them in</hi> Jacob,
+<pb n="9" facs="tcp:117665:5"/> 
+               <hi>and ſcatter them in</hi> Iſrael: Though <hi>Davids</hi> wound was healed by remiſſion, yet the blemiſh remained; that blood ſhould never depart from his houſe, for the blood of one <hi>
+                  <g ref="char:V">Ʋ</g>riah.</hi> Num 35.31, 33<g ref="char:punc">▪</g> 
+               <hi>Moreover, ye ſhall take no ſatisfaction for the life of a murderer, that is guilty of death, but he ſhall ſurely be put to death. Blood defileth the Land; and the Land cannot be cleanſed of the blood that is ſhed therein, but by the blood of him that ſhed it.</hi> 1 Kings 2.5, 6. <hi>Moreover, thou knoweſt what</hi> Joab <hi>the ſon of</hi> Zerviah <hi>did to me, and what he did to the two Captain, of the Hoſts of</hi> Iſrael, <hi>unto</hi> Abner <hi>the ſon of</hi> Ner, <hi>and unto</hi> Amaſa <hi>the ſon of</hi> Jether, <hi>whom he ſl w, and ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d the blood of war in peace, and put the blood of war upon his girdle that was about his loyns, and in his ſhooes that were on his feet. Do therefore according to thy wiſdom, and let not his hoary head go to the grave in peace.</hi> Exod. 21.14. <hi>If a man come preſumptuouſly upon his neighbor, to ſlay him with guile; thou ſhalt take him from mine altar, that he may die.</hi> And Doctor <hi>Stoughton,</hi> or Doctor <hi>Sibbs,</hi> as I partly remember I have read, ſpeaking of it, ſaith, <hi>How ſweet is life to thoſe that have been prod<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gal of the blood of others! No ſubject, ſaith he, had murdered more then</hi> Joab. <hi>When Proclamation was made in</hi> Iſrael. <hi>That who ever ſhould ſmite the</hi> Jebuſites <hi>firſt<g ref="char:punc">▪</g> ſhould be the chief, and Captain,</hi> Joab <hi>was the man; no man was more conſtant to the Weal of</hi> Iſrael; <hi>non ſo ſucceſsful in victories; yet he was called to reckon for his old ſins, and muſt repay blood to</hi> Amaſa <hi>and</hi> Abner. Murder in Authority, is the greateſt murder; and the violation of Laws and Liberties, by Authority, is the greateſt violation.</p>
+            <p>But concerning the <hi>Act of Grace and Favor.</hi> Forgiveneſs and favor is good in its due place; and in truth, is acceptable to God and men; but out of its place, its a deluſion of Antichriſt and a lie. An <hi>Act of favor and grace,</hi> is indeed ſhewn, when a man is an offender in the eye of the Law, Reaſon, and Chriſtianity; but ſurely, a man is not an offender in the ſame thing, wherein he is offended, and deſtroyed in his Liberty, or Right, contrary to Law, Reaſon, or Chriſtianity; when he is denied the benefit of Juſtice, a Hearing or Tryal, as I have been: and how deſtructive this is to the Rights of the Nation, let the world Judg. If a Law had been made to that end, it had been un<g ref="char:EOLhyphen"/>juſt in it ſelf, and voyd; but no Law being made, its <hi>ſuperſuperlatively</hi> Tyrannical, con<g ref="char:EOLhyphen"/>trary to Law and Scripture, <hi>Deut.</hi> 11.3, 8 <hi>Numb</hi> 15 30. <hi>Rom.</hi> 4.15. and contrary to the pretended Agreement of the General, and General Councel of Officers, <hi>pag.</hi> 23. in four or five particulars by the Law of <hi>England,</hi>
+               <note place="margin">The faith and repu<g ref="char:EOLhyphen"/>tation of the General is violated that I have not Juſtice.</note> any Act or Agreement againſt the Laws of God, or Nature, is a meer nullity. Maſter Solicitor <hi>Cook</hi> in King <hi>Charls</hi> his Caſe, citing alſo <hi>E. L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſters</hi> Caſe, <hi>Page</hi> 23. and 1 <hi>part</hi> of the <hi>Book D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>clarations, pag.</hi> 207, 690. Thoſe things that are evil in their own nature, cannot be the ſubject of any command, or order any obligation of obedi<g ref="char:EOLhyphen"/>ence upon them, by any Authority whatſoever. When you ſhould do a man Juſtice, you wrong him; and to hinder Juſtice, and hide the wrong in the peoples eyes, you pretend a Politique <hi>Act of Grace and Favor.</hi> Is not this Politique Tyranny in grain?</p>
+            <p>
+               <hi>Mercy</hi> and <hi>Juſtice</hi> are two glorious attributes of God, and they ought to be truely imitated and reſembled by men that are true Governors (or pretended ones.) And the not walking up to it, makes a man guilty of prophaning the attributes of God, and his Miniſtrations to men; and for a man to have an <hi>Act of favor or grace,</hi> before he is legally and judicially convicted of a crime; If I were an offender indeed, yet unleſs I was an offender in Law and Reaſon, it would be but Injuſtice to grant an <hi>Act of Par<g ref="char:EOLhyphen"/>don;</hi> for an offender muſt die in Law and Judgment, before he can be ſaid to be cap<g ref="char:EOLhyphen"/>able of <hi>Mercy.</hi> But I am in Law a <hi>freeman,</hi> as I have ſhewed you, though I am by force
+<pb n="10" facs="tcp:117665:6"/> and arbitrarineſs a priſoner; and I am a priſoner, in walking in an undeniable, Chri<g ref="char:EOLhyphen"/>ſtian, warrantable, legal, and fundamental Right of the people, and of juſt Govern<g ref="char:EOLhyphen"/>ment. How improper is it, and contrary to the Nature of juſt Iudgment and Reaſon? And how contrary to the nature, truſt, and very name of a Parliament; which very name doth hold forth, <hi>That it ought to do things according to the rational, unbiaſſed, and de<g ref="char:EOLhyphen"/>liberative diſcourſe of the Minde, without fear, favor, or affection. Fabritius</hi> and <hi>Cato</hi> would not ſwa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve from the Rules of Iuſtice and Vertue. You profeſs your ſelves Chriſtian Common-wealths men.</p>
+            <p>But as for the <hi>Act of Favor and Mercy,</hi> I wiſh thoſe had it that ſtand in need of it: And let me tell you, in my oppreſſion, <hi>Honor would t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uly be ſeen in that.</hi> But indeed, there is no honor but diſhonor, in falſly ſtiling the glorious attributes of God, <hi>viz. Juſtice</hi> and <hi>Mercy;</hi> both which Miniſtrations amongſt men, are the foundations of Peace, and not <hi>Tyranny</hi> and <hi>Policy.</hi> If the two laſt kiſs each other, (contrary to the Ordinances, and Scripture of God, and good will and peace amongſt men, with Laws and Liberti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of a Nation) they commonly fall together.</p>
+            <p>But as for the <hi>Act of Favor and Mercy;</hi> Do you think it good to have the National Fundamental Right of the People ſtrangled, in claiming of Iuſtice againſt any perſon or perſons, and to be unjuſtly unreaſonably, and un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>Chriſtianlike impriſoned, and then cover injuſtice with an <hi>Act of Grace, Favor, or Mercy?</hi> Are the attributes of God, given unto men, for no other uſe, but to be abuſed and converted into ſuch ſiniſter and politique ends?</p>
+            <p>It is indeed an honor to have the conduct of an Army of 20000. men, to obey the Commands of Iuſtice, to defend the Innocent; but the contrary is moſt ignonimious. It is more honorable to have an Army to preſerve the blood of one innocent from cruelty and arbitrarineſs, then to deſtroy many nocents; though indeed, the principle of the great Infidel <hi>Turk</hi> is to deſtroy twenty innocents, rather then one nocent; there<g ref="char:EOLhyphen"/>by thinking to terrifie the people, th ugh he oftentimes miſſes his aym thereby. The Scripture doth manifeſt the attributes of Gods favor and mercy to ſinners, above the attributes of juſtice to offenders. How much more, ſhould you care for the liberty, and blood of the innocent of a Nation, eſpecially ſeeing ſo many capital obligations do lie upon you?</p>
+            <p>
+               <note place="margin">Contrary to the ſecond part of the Lord <hi>Cooks</hi> Inſtit. fol. <hi>52. 53. 315. 318 391. 615. 616. 1</hi> Part of the Book Declar. of Parl. <hi>38. 37. 201. 845.</hi> And the Votes upon the Impeachment of the ten Members, The Petition of Right, the third of King <hi>Charls,</hi> The Act that aboliſhed the Star Chamber, The de<g ref="char:EOLhyphen"/>liberate and reſolved opinion of all the Judges of <hi>England,</hi> the third yeer of Kings <hi>James,</hi> in anſwer to the twenty and two Objections of Archbiſhop <hi>Bancroft,</hi> and the whole Clergy.</note>But Sir, I am impriſoned contra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y to the Laws of God, Nature, and the Land, and the legal Birth-right of the people, and ſent unto the <hi>Military Juriſdiction</hi> of him that I have ap<g ref="char:EOLhyphen"/>pealed againſt; c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntrary to Reaſon or Chriſtia<g ref="char:EOLhyphen"/>nity. <hi>Generals are no crimes in Law; the War<g ref="char:EOLhyphen"/>rant by which I am committed, is in General terms.</hi>
+            </p>
+            <p>
+               <note place="margin">Verſ. <hi>14.29.</hi> Cap. of <hi>Magna Charta,</hi> and the Expoſition upon them. The ſe<g ref="char:EOLhyphen"/>cond part of Inſt. fol. <hi>29. 46.</hi> &amp; Rot. Parl. <hi>5.</hi> R. <hi>2.</hi> n. <hi>45.</hi> &amp; Rot. Parl. <hi>1.</hi> H. <hi>4.</hi> n. <hi>14, 79.</hi> &amp; <hi>5.</hi> H <hi>4.</hi> cap <hi>6.</hi> &amp; <hi>11.</hi> H. <hi>6</hi> c. <hi>11.</hi> and <hi>15.</hi> &amp; <hi>4.</hi> H. <hi>8.</hi> c. <hi>8.</hi> &amp; <hi>1.</hi> &amp; <hi>2.</hi> Ph. &amp; Ma. c. <hi>10.</hi> &amp; <hi>4.</hi> part. Inſtit. fol. <hi>25.</hi> &amp; <hi>1.</hi> part. Book. Declar. p. <hi>48. 278.</hi>
+               </note>Again Sir, Law-makers are not to be Law-executors, becauſe the benefit of all Appeals,
+<pb n="11" facs="tcp:117665:6"/> would be then deſtroyed, and the people left without all remedy; which the Law of Love, Juſtice, and ſafety abhor (though they ought to queſtion the male Adminiſtrators of Ju<g ref="char:EOLhyphen"/>ſtice or corrupters thereof) which is my Caſe, and therefore they are not to male-admi<g ref="char:EOLhyphen"/>niſter, as the Apoſtle ſaith, <hi>Thou that teacheſt another, teacheſt thou not thy ſelf?</hi> all power judiciall is committed to divers Courts; in the judgment of <hi>Gaſcoign<g ref="char:punc">▪</g>
+               </hi> Chief Juſtice, and therefore the King could not command but by matter of Record according unto Law; Sir <hi>Edw. Cook</hi> upon the 3. <hi>Ed.</hi> 1. <hi>cap</hi> 15. but eſpecially upon theſe words or commandment of the King; and ſaith, Mr. St. <hi>John</hi> againſt the Earl of <hi>Strafford,</hi> it is of higher juriſdi<g ref="char:EOLhyphen"/>ction <hi>dare leges,</hi> then to judg by them, and it is beneath the glory and honor of <hi>Legislators</hi> to be executors of the Law.</p>
+            <p>And now I ſhal declare unto your Houſe more ful<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y then I have yet done in my <hi>Appeal;</hi> the Reaſons why I did Appeal againſt the Generall, as alſo his injuſtice towards me: Firſt, that I might give ſome ſtops to the cu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rant of Injuſtice to the people; and ſecond<g ref="char:EOLhyphen"/>ly, that I might have redreſs of my own wrongs and inſupportable injuries, but you ſhall ſee how the General hath walked and acted againſt me, <hi>(viz)</hi> When I was committed at <hi>Ware R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zvous,</hi> and when my Adverſaries could not produce any thing materiall a<g ref="char:EOLhyphen"/>gainſt me, as Mr. <hi>S xb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> told me was confeſſed by Commiſ. General <hi>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eton,</hi> he having viewed the Charge againſt me, and my Anſwer, but there being nothing againſt me, the det<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rmination was it ſhould ſeem, to make a compoſure with the p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſoners, and to make a unity under the notion of a Faſt: the next day after the Faſt, the priſoners were ſent for, and a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the time there was a ſeeming contending<g ref="char:punc">▪</g> be<g ref="char:EOLhyphen"/>twixt Li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Gen. <hi>Cromwel,</hi> and Commiſ. General <hi>I<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ton,</hi> who ſhould ſpeak to us,<note place="margin">Of <hi>Ware</hi> Randez<g ref="char:EOLunhyphen"/>vous at that time there was a report by Lieute<g ref="char:EOLhyphen"/>nant Colonel <hi>Henry Lil<g ref="char:EOLhyphen"/>burn,</hi> that the Levell<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs in<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nded to murder the King; which blemiſh ſeemingly l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y upon u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that were Priſo<g ref="char:EOLunhyphen"/>ners, chiefly becauſe we were wel-named ſo, and Colonel <hi>Eyers,</hi> my ſelf, and others, petitioned the General, that Lieut. Gen. <hi>Henry Lilburn</hi> might diſ<g ref="char:EOLhyphen"/>cover the perſon that uſed theſe words, ſuch princi<g ref="char:EOLhyphen"/>ples being an abomimina<g ref="char:EOLhyphen"/>tion to our ſpirits, and we ſhould rejoyce to have ſuch a one known, but it was never done; Our Petition was Printed in Lieut. Col. <hi>John Lilburns</hi> Book, but this report was only to g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the <hi>CAVALRIE</hi> to joyn to deſtroy the Level<g ref="char:EOLhyphen"/>lers ſo called, by whomſoeever it was deſigned, the Lord knows and judges.</note> though Maſter <hi>Quarterm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> after<g ref="char:EOLunhyphen"/>wards told me (though I wiſhed he had told me before) that Commiſ. General had polickly predetermined to ſpeak, and what to ſay; but the words he uſed with much demureneſs, ſolemneſs of countenance (the Emblem of a Saint or Hypo<g ref="char:EOLhyphen"/>crite) as many can witneſs, were theſe (viz) That God did incline the hearts of the General, and General Counſel to deſire a union &amp; embracing one another in love with many circumlocutions according to his politique intentions: but the ſum and ſubſtance of my Anſwer was, that I wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> confi<g ref="char:EOLhyphen"/>dent in my cauſe, yet I would not deny unity, if God had wrought the ſpirit of condiſcending in them, for I told them, I looked upon the condiſcending to be of their party, I would be glad that the glory of love might be reciprocal; but yet I ſpake a little in juſtification of my ſelf as to my principles a<g ref="char:EOLhyphen"/>gainſt the common enemy (which did endeavor to Court the Regiment) the Engagements and Declarations of the Army, and the agreement of the people, and the juſt authority of the General, at which Lieut. Ge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eral ſmote his h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd to his heart, which ſhould demonſtrate the Chriſtianity, Sincerity, and unfraudulency of a man, and profeſſed that he believed that I was a godly man, and that I was iuſtinable; I told him I wondered that there had been ſuch Calumniating Pa<g ref="char:EOLhyphen"/>pers Printed concerning me: he made it ſtrange, and could have had ſomething drawn up to my vindication
+<pb n="12" facs="tcp:117665:7"/> againſt Calumny in Print, and would have had me drawn it my ſelf there, I told him, for my part, I did not ſo much value Calumny, or unjuſt aſperſions, and ſo I was ap<g ref="char:EOLhyphen"/>pointed my Command; whereupon I pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſently determined to go to <hi>New-Caſtle,</hi> and had Lieut. Colonel <hi>Cromwels</hi> Letter: Wherein I did deſire him to certifie the loving compoſure at the head quarters, and alſo to write to Lieut. Col. <hi>Hen. Lilburn</hi> to deliver me ſome moneys that he owed me, and my couzen in a friendly maner to avoid conten<g ref="char:EOLhyphen"/>tion, he having in the buſin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſs of war, appeared a very impl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cable enemy of mine, and broken open my trunk, and took my Commiſſion out and ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uck m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out of the Muſters Role whilſt I was a priſoner, before hearing or Iudgment of my Cauſe, and ſo I went to <hi>New-Caſtle,</hi> and when I came there, I was preſently ſuſpended my <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ommand; I did deſire him to let Lieu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Gen. <hi>Cromwels</hi> Letter be ſeen before the Governor, and that I might have my Commiſſion, but he refuſed it me; then I writ unto the General divers times concerning it, that he might certifie the Governor as the Lieut. General had cer<g ref="char:EOLhyphen"/>tified; but in ſtead of that, a Commiſſion (after ſome few weeks ſuſpenſion) c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me from the General to another to enter upon my Command, without any cauſe in the world ſhewed, ſo that I was in the midſt of my Enemies, as it were: I had rid two hundred and ten miles in as great a Froſt as ever I ſaw, loſt a horſe by the way beſides my charges, I was fain to return to <hi>London</hi> again, for it was to no purpoſe for me to ſtay there, for power and ſubtilty was maſter over me and my unjealous ſpirit: when I came from <hi>New-Caſtle</hi> to <hi>London</hi> to m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke it up four hundred and twenty miles, which was no ſmall trouble to me for their ſakes as well as my own; I made my appeal, directed to the General and his Councel of War for Juſtice, which I delivered him, but I could not get ſo much Juſtice of him; I offered to refer it to ſome Parliament men, that would not be granted; I offered to refer it to ſome conſciencious Officers of the Army, that would not be granted neither: Wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t could be more Arbitrary and more abſolute? pray Sir re<g ref="char:EOLhyphen"/>turn back and view their Declarations: I ſhould ſc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rce have uſed the General ſo as he hath uſed the Generals faithful ſervant.</p>
+            <p>Then I had drawn up an Appeal in Parliament againſt the General, and told Colonel <hi>Fleetwood</hi> thereof, and I took his perſwaſion for p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ace ſake and did not proceed in it; and when Lieut. General <hi>Cromwel</hi> told me that he heard I intended to appeal in Parlia<g ref="char:EOLhyphen"/>ment for revenge; I told him I was not of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t ſpirit, but indeed I had drawn up an ap<g ref="char:EOLhyphen"/>peal in Parliament for Juſtice, which I could not ſee might be intitled Revenge, but Temperance and Moderation, but I did ſtop my intentions, and was reſolved to paſs it by, and to ſee whether they would change, and be more juſt in time to come; to which purpoſe I told you, being <hi>Speaker,</hi> at the Bar, a little before my commitment: and not<g ref="char:EOLhyphen"/>withſtanding all my diſcouragements on the on hand, and ſubtil endeavours to incou<g ref="char:EOLhyphen"/>rage me on the other hand to oppoſe the Grandees, and to ſhake hands with the common Enemy, yet the Lord kept me firm in my affections to this Houſe, and Army, in ex<g ref="char:EOLhyphen"/>pectation of righteous principles of Iuſtice at laſt to the people, as in my Appeal is ex<g ref="char:EOLhyphen"/>preſſed, and neither Honor nor Revenge I praiſe the Lord could take place in my thoughts, though Lieut. Colonel <hi>Henry Lilburn</hi> (my implacable enemy had influence in the General by himſelf and his creatures againſt me) that pretended much zeal to the General and his authority, plaid the traytor to the Nation in betraying <hi>Tinmouth;</hi> but ingaged againſt the new and horrid Inſurrections, and had a command of a Troope of horſe in <hi>Kent</hi> under Sir <hi>Michael Loviſey,</hi> and after our diſmiſſion it being juſt at the time of the Treaty between the King and Parliament, Major <hi>Reynolds</hi> ſpake to me to ingage my Troope to march them into ſome other County, and told me he had order from Commiſſary General <hi>Ireton,</hi> unto whom the General had left the diſpoſall of things to
+<pb n="13" facs="tcp:117665:7"/> quarter in the County, in order to the Treaty betwixt the King and Parliament, and told me that the Commiſſary General was reſolved to oppoſe the Treaty, ſuppoſing, as Maior <hi>Reynolds</hi> ſaid, that King, Parliament, City and Scots would ioyn againſt the Army, and that then he was promiſed an Eſtabliſhment in the Army, and that then there would be fighting enough; and uſed theſe words to me, <hi>viz. That if men of ſuch prin<g ref="char:EOLhyphen"/>ciples left him now, he would never truſt men again; and that th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y intended to declare for juſtice, as to the Souldiers, and people.</hi> And truly, for my part, it was an abomination to my thoughts, to think that there ſhould be any intention, to deſtroy the Army, and my fellow Souldiers that had fought for the peoples rights, with whom I was reſolved to live or periſh, though now I am in the high way to pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſh, by the higheſt friends, and pretenders to God, and Righteouſneſs. And Major <hi>Reynolds</hi> told one Captain <hi>Chaplain,</hi> as he declared unto me, That Commiſſary General <hi>Ireton,</hi> was as right, as any man in the world, for all thoſe principles of righteouſneſs, and freedom, that were contended for; though it doth ſince appear, That <hi>Reynolds</hi> had no other deſign, but by our blood, and ruine, to exalt himſelf, and wring the Regiment out of Sir <hi>Michael Leviſeyes</hi> hands, and to make himſelf a Colonel. And indeed, the Gentleman hath performed what he ſaid, whileſt he was a priſoner formerly, for the Rights of the people, as it was reported unto me, by a Captain of this Garriſon, in the preſence of Maſter <hi>Bacon, viz.</hi> That he would ſet them together by the ears, that he might come in, and have the plunder. And Major <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ynolds</hi> alſo told me, That he had a private hint from Lieutenant General <hi>C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omwel</hi> what to do; and I had an order from Sir <hi>Michael L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>viſey</hi> to ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch, <hi>viz.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>Wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>reas I hav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> received ord<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rs from Commiſſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y General <hi>Ireton,</hi> That thoſe three Troops which the Committee of <hi>Kent</hi> cou'd ſpare, to march into the North, unto Lieutenant General <hi>Cromwel,</hi> there being much want of Horſe there: You are forthwith to march accordingly, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re to remain till further orders. Dated at <hi>Sevenoke,</hi> the twentieth fifth of September, <hi>1648.</hi>
+                  </p>
+                  <closer>
+                     <signed>M. Leviſey.</signed>
+                  </closer>
+                  <postscript>
+                     <p>To Major <hi>Reynolds,</hi> Captain <hi>Chaplain, and Captain</hi> Bray.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <p>Another Letter I had in <hi>Kent</hi> from Major <hi>Reynolds</hi> to go for Orders for quarters, be<g ref="char:EOLhyphen"/>cauſe his Troop was not ready to march, and he read the ſame unto me, a Copy whereof I after took <hi>viz.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>SIR,</hi> There are two Troops of Sir <hi>Michael Leviſeyes</hi> R giment marching und<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r the com<g ref="char:EOLhyphen"/>mand of Captain <hi>Bray,</hi> and Captain <hi>Chaplin,</hi> by his Excellencies Order, into the No<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th; but in reg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rd my own Troop cannot be disp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tched out of the County until Saturday next, I intreat you to be pleaſed, to giv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> them an Aſſignment for Quarters, neer the Northe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n Rode, about <hi>Hartfordſhire</hi> or <hi>Bedfordſhire,</hi> till I can ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch up to them. By this neceſſary favor, you will, if poſſibly, much further oblige,</p>
+                  <closer>
+                     <salute>Sir,</salute>
+                     <signed>your affectionate friend, to ſerve you, <hi>J. Reynolds.</hi>
+                     </signed>
+                     <dateline>
+                        <hi>Roch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſter,</hi> 
+                        <date>
+                           <hi>27. 1648.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+                  <postscript>
+                     <p>To the truly honorable Commiſsary General <hi>Ireton,</hi> or Quarter Maſter General <hi>Gravener,</hi> theſe preſent.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <p>And accordingly I had orders by a Souldier of my Troop (that I ſent to Saint <hi>Albans</hi>) from Quarter Maſter General <hi>Gravener,</hi> for I rid to <hi>Windſor</hi> my ſelf, to ſpeak
+<pb n="14" facs="tcp:117665:8"/> with the Commiſſary General, and miſt of him. Not long after, Major <hi>Reynolds</hi> his Troop came up, and then we had orders to march further North from Major <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yno<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds;</hi> and at length having kept up my Troop, neer half a yeer, at length the Army had ſeized upon the King, by order from the General, Lieutenant General, and Commiſſary Ge<g ref="char:EOLhyphen"/>neral (as I was informed, by a very good hand) and the King being at <hi>Hurſt,</hi> I was commanded by the Authority of the Army from Commiſſary General <hi>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eton,</hi> to Major <hi>Reynolds</hi> to <hi>Hurſt</hi> Caſtle, for the ſecurity of the King, and had the gua<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d of him two nights my ſelf, with part of my Troop, not longer after that, the King was commanded by order from our Regiment, and we reſigned up our Guard of him, according to command and order, unto Colonel <hi>Harriſon.</hi> After that, we were deſigned to quarter in <hi>Hampſhire,</hi> and then after in <hi>Worceſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſhir<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and the Regiment of Col<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ynolds</hi> was voted to be of the eſtabliſhment of the Army by the houſe. And the Officers and the Souldiers of the three Troops that were together, deſired me to carry an aſſurance in writing to the General, That in order to righteouſneſs, freedom, and juſtice, and the eſtabliſhment thereof to the people; our blood ſhould not be precious in our eyes; but we would adventure it under his conduct againſt all Tyrants whatſoev<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r. I know not what (one ſtiled a Chriſtian General) could deſire more: I ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e no re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at he ſhould eminently deſire that, as his glory and honor; and ſoon after diſcourſing wi h ſome, and they telling me, That it was the principles of ſome, to cu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> off the King out of meer policy. I had an exceeding great aſtoniſhment in my ſpirit, and wond<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red what this would tend unto; for I look upon meer policy, to be a deſ uctive principle, and a great dependency upon a mans own wit, and which is more agreeable to the principles of the unnatural, and unholy <hi>Turks,</hi> (then of Chriſtians) who deſtroy one another out of meer power and policy, and to exalt themſelves above thoſe capital Obligations be<g ref="char:EOLhyphen"/>fore expreſſed; and I looked, that Righteouſneſs and Juſtice ſhould be pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>formed out of ſincerity, and purity of principles, according to Law, Scripture, Reaſon, and Chri<g ref="char:EOLhyphen"/>ſtianity: Next of all, I looked, That the Laws, Freedoms, and Rights of the people, ſo much ſpoken of in the Declarations of the Army, did ov<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r-ballance the blood of the King, becauſe that was the occaſion of the late War, and would always occaſion miſery and blood, both of innocent and nocent, in the defect thereof; and ſo I had much affliction upon my ſpirit: And next of all<g ref="char:punc">▪</g> I looked upon many conſciencious men, as to the Rights of the people, as Maſter <hi>Sprig.</hi> Mr. <hi>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>con, &amp;c.</hi> were for the preſervation of his perſon, though they were for the life, blood, and condemnation of him in Law, Chriſtianity, and Reaſon (as guilty of the River of blood in the Nation) which was moſt ſuitable to my particular judgment, (mercy exalting it ſelf over iudgment) but being onely my particular iudgment, I would not diſcover it to many, becauſe I would not be an occaſion of diviſion: I having heard, that the reſolution of the Grandees was to cut off the King, (before they did go through with the eminent Freedoms and Rights of the people) and that the King ſtood in the way of them: And next of all I c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſider<g ref="char:EOLhyphen"/>ed. That the blood of his perſon could not be compared or recompenſe the river of blood that hath been ſhed for the Laws and Liberties of the people. And I looked upon the Rights of the people, to be that which would moſt of all ſatisfie all Intereſts, in Peace, in Law, Love, Freedom, Honor, and Juſtice. I do not ſpeak this neither to in<g ref="char:EOLhyphen"/>courage any to a perſonal revenge, nor yet againſt the execution of the King; for I do abhor it, no more, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n I indeed can ſpeak againſt the Iuſtice of the Lord, executed by <hi>J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hu,</hi> upon the blood of <hi>Ahab,</hi> and <hi>J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zebels</hi> family, for the blood of <hi>Naboth;</hi> but I would have a better uſe made of the declared execution of the King, as guilty of the pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ious blood and violation of the Freedoms of the people, <hi>viz.</hi> In the ſupremacy of the
+<pb n="15" facs="tcp:117665:8"/> Rights of the people, and in the miniſtration of the Laws of Love, Iuſtice, and Free<g ref="char:EOLhyphen"/>dom, and then your blood ſhould be as precious as my own, in any conteſt againſt ſuch ſpirits; and the Laws of Freedom and Iuſtice, was the onely declared ſubſtance of the Remonſtrance from Saint <hi>Albans,</hi> againſt the King and Houſe, which was moſt pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t thereof penned (as I was informed by an Officer) by Commiſſary General <hi>Ireton.</hi>
+            </p>
+            <p>Not long after the death of the King, I went to London, out of Worceſterſhire, and was willing to take a view of things impartially<g ref="char:punc">▪</g> and being ſoon after at a general Coun<g ref="char:EOLhyphen"/>cell one day, where there was a Letter delivered to the Generall, and it being read in the Councell, it was ſo diſliked, that it was preſently put to the queſtion, whether it ſhould be owned at all, or no? Many ſaid that they did abominate it, others ſaid, that they did diſown, deteſt, and abhor it; ſome others ſaid, they did own the good was in it, but b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cauſe there were many expreſſions in it that tended to offence and diviſion, they did diſown it; At length it came to my Vote, and the Generall looking upon me ſtedfaſtly, I told him I was againſt the expreſſions in the Letter that gave offence, as much as any man; but I did perceive that by the Letter there was a complaint, as if they had reaſon to be offended, and that it related to the right of Petitioning, which they conceived themſelves abridged and moleſted in, in a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etition that was preſented in Parliament, and I ſo owned the Letter, and deſired that they might be called in: I do not know what I c uld have ſaid more or l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe, if I had reſpect to my own conſcience not to offend it, as well as unwillingneſſe in my ſpirit, n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t to give any juſt occaſion of offence to them; and I am not ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſible that I gave any juſt occaſion at all to Chriſtians, rationall, or in<g ref="char:EOLhyphen"/>cor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>upt men in the leaſt punctilio, and moreover, it was my judgment and opinion, delivered in Councell: but ſuddenly aft<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r that Col <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ynolds</hi> was <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elling me, that there was a Civill impl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yment in the Common wealth provided for me, in lieu of my Troop; To whom I anſwered, That I thought I had liberty to act according to my own freedom, and no man hath power to diſpoſe of my perſon as he pleaſe, contrary to <hi>Reaſon, Law, Juſtice</hi> and <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght.</hi> By that I ſaw the conſpiracy; not long after that I was turned out of the Councell, and was not ſo much as admitted liberty to ſpeak (only this very little af<g ref="char:EOLhyphen"/>ter expreſſed) though I did deſire it often (which barbarous, and unchriſtian dealing, Inhumanity, and Incivility, I was much offended at) for what could be done more by a Star Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r-Councell, and High Commiſſion-Court of Prelates and Lords, againſt the rights of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he People, and a harmleſſe, and undenyable liberty of conſcience, unleſſe humane ſociety, as we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l as pure Religion be ſubverted? and in the Councell, before I was turned out, the Generall told me I was none of the Army, becauſe I had no new Commiſſion; to whom I anſwered, as I remember, to this purpoſe, That I was of the Army as much as Col <hi>Reynolds<g ref="char:punc">▪</g>
+               </hi> that t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld you in the C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uncell, b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore all, that he h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d no new Commiſſion, yet he gave his Vote; and alſo that I was of the Army, according to Common Ingagement, ſpeciall ingagements, Chriſtianity and reaſon: Next of all, I wondred that my Vote was then demanded in Counſell if not of the Army: Next of all, by the Vote of the Houſe, for the eſtabliſhment of the Regiment then in being, and not for Col. <hi>Reynolds</hi> to raiſe a Regiment; next of all, my employment for the guard of the King, by the authority of the Army, and my faithfulneſs, charges, and troubles, as to the publike, but out I muſt, <hi>per fas nefaſque:</hi> I profeſs Sir, I could ſee no ſafety at all in their Laws, and Liberties; and I ſaw that the conſcientious Officers and Souldiers of the Army, were ready to be deſtroyed in their Liberties, Freedoms, and perſons at pleaſure, by ſuch practiſes, which they eminently condemned in the King. I ſaw alſo, that it might extend to thoſe Members, that are left in Parliament, to make them abſolute
+<pb n="16" facs="tcp:117665:9"/> ſlaves to ſuch particular Intereſted, parties, and deſignes, and to make them to act timo<g ref="char:EOLhyphen"/>rouſly, diſhonorably, and guiltily, contrary to thoſe capital Obligations that I have recited in capital Letters in my Books, and that they might ſerve them alſo, as they had ſerved me, when they had ſerved their ends. I ſaw alſo, that it might extend to the embaſing of future Repreſentatives and Parliaments, and to make them to act ignobly, diſhonorably, illegally, and unconſcionably to the diſhonor of the Lord, and ruine of humane ſociety; and according to the rules of ſome men, that have corrupted their ways, and walked contrary to Law, Reaſon, and Chriſtianity, and that divine anointment, that doth give the name, and a deſcribe a Chriſtian. And I ſaw alſo, that if I did not ſpeak, I ſhould encourage the General and Grandees, in evil practice againſt their own bodies and ſouls, as well as againſt the peoples liberties, and ſafety; though the ſweetneſs, and the delici<g ref="char:EOLhyphen"/>ouſneſs of their then preſent power, and their extream, and abundant cauſeleſs enmity, and prejudice towards me, and private inſinuations, and influence upon the General, for their own advantage, to the peoples, as well as my ruine; which cou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe and practice is extream prejudicial to Common-wealths, and deſtructive to humane ſociety, and Chri<g ref="char:EOLhyphen"/>ſtian principles, would not permit them to conſider. And truly Sir, let me tell you, and let me appeal to the Lord, and the people, that are rational, godly, and conſcientious, whether I could have done leſs, then I did.</p>
+            <p>Truly Sir, I may ſay, <hi>Si crimen erat, crimen amoris erat;</hi> but I have committed no c ime at all, and you may keep your favor and grace, I will not accept of any ſuch thing (falſely called favor) tending to the betraying of the rights of my native Countrey, and to juſtifie you in thoſe things that you muſt anſwer for before the Lord and the people; and alſo ſeeing I am perſwaded in my own conſcience, that neither the greater friend or enemy to the Nation can blemiſh me in my proceedings herein, for before I did walk in an undeni<g ref="char:EOLhyphen"/>able and, peaceable Parliamentary Appeal againſt the General; I went unto his Quarters, becauſe I had an order from Colonel <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ynolds</hi> to waite upon him, expreſſing an order as from the General Counſel, and ſo I told him (as I remember) I was come to wai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e upon his Excellency to know his pleaſure; he told me he wondered that the General Councel did not ſecure me for ſpeaking tending to diviſion: I anſwered That they might have done it if they had pleaſed, and that I thought it would have been very harſh, and that I did not know who could queſtion my fidelity, and that what I had ſaid was juſt, and ſpoken in temperance, moderation and conſcience as might be ſpoken without of<g ref="char:EOLhyphen"/>fence to any godly and conſciencious man, told him I was for unity in righteouſneſs as much as any man (but if I had ſpoken of unity, and left out righteouſneſs it would it may be have been more pleaſing) and that by my converſation, it ſhould appear, and that I had been ſtrangely dealt with as to my former buſineſs, as that though I was juſtifiable and declared ſo to be by Lieut. General <hi>Cromwel,</hi> yet I was deluded under the notion of a Faſt, yet I ingaged againſt the Inſurrection when courted to far greater honor on the o<g ref="char:EOLhyphen"/>ther hand, which <hi>Hen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> that traytor that had influence upon him (to my preju<g ref="char:EOLhyphen"/>dice) did embrace to the Nations prejudice and danger; and ſince I told him I had been at neer two hundred pound charges and damages in my laſt cauſe, as to the keeping up of my Troop neer half a year, and to be dealt with ſo twice together, I thought it not juſt, he told me I might make my charges appear in private and have ſatisfaction; I an<g ref="char:EOLhyphen"/>ſwered, that was nothing as to the nature of Right or Juſtice; he told me that a civill imployment in the Commonwealth would be more advantagious for me and wherein I might do the Commonwealth more ſervice; I told him I was not free to accept of any ſuch place, or ſo to imploy my ſelf untill the Nation was more ſetled, and in a way of enjoyment of their Rights, and I could not in my conſcience be ſatisfied, that I could
+<pb n="17" facs="tcp:117665:9"/> do the Nation more ſervice then in that way, and therefore I did deſire him to ſuſpend the giving out of any Commiſſion unto another, untill the buſineſs was determined in Parliament; he asked me whether I would offer to trouble the Parliament with it; I told him I did not think the Parliament would account Juſtice a trouble to them, that had manifeſted to the world as if they had ſo much zeal for Juſtice; and for my part I did intend to bring both buſineſſes upon the Stage, becauſe in my conſcience I did look upon it to be a buſineſs of a publique Nature: ſo I did deſire his Excellency again to ſuſpend the giving out of any Commiſſion till the buſineſs was determined in Parlia<g ref="char:EOLhyphen"/>ment; he told me he had given out a Commiſſion already: I anſwered he might better recall or ſuſpend it then give away anothers right (as Mr. Soliciter <hi>Cook</hi> ſaith in King <hi>Charls</hi> his Caſe, <hi>pag</hi> 21 Poſſeſſion is a vain plea when the matter of Right is in Queſtion) for right can never die.</p>
+            <p>And ſo, Mr. <hi>Speak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r,</hi> I have diſcharged my conſcience to the people, to your ſelves, and the Army, and I have a cruel Goal for it, contrary to thoſe capital principles and ob<g ref="char:EOLhyphen"/>ligations upon the Houſe and Army that are written in Capitall Letters in this my Teſtimony; and having been damnified by the Genenal in my two Cauſes, to the value of three hundred pound, beſides the violent and unreaſonable taking away of my Troope, and my unnatural imp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſonment, and having been almoſt ſeven years in the Service of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Common-wealth with much love, affection, and loſſe beyond my own ability, yet I have not had any allowance from you ſince my arbitrary, unnatural and unholy Commitment, from the nineteenth of March laſt, nor any part of my own Arrears ſent me, nor admi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted a hearing of my Cauſe, which Pagans have acted up unto; contrary to thoſe capitall obligations, by which the Officers and Souldiers of the Army, and other the good people of the Nation, may ſee how their condition may be as well as mine. Mr. <hi>Speaker,</hi> my principle is, (and I would not willingly offend againſt my principles) to ſuffer much hurt, rather then to do any, and to do good rather then receive (though I am under hideous and lothſome tyranny) as to that, and cannot; which is more bleſſed, as the Apoſtle ſaith, and to do good for evil, and not to diſcover the infirmities of my neighbour, unleſſe I ſee it is his deſign to act to a Nations preiudice, as I have perceived in the tranſactions of things, by the Gene<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all, by that evill and private influ<g ref="char:EOLhyphen"/>ence I am not Iudg of, but the Lord: and as for any evil or preiudice that I ſhall do un<g ref="char:EOLhyphen"/>to my neighbour, whether willingly or unwillingly, through my own weakneſſe or cor<g ref="char:EOLhyphen"/>ruption, I deſire to be accountable by juſt Laws Nationall, which is the badge of our freedom, and the way to our peace, and the only way that my reaſon can preſent unto me, and unto you, is by way of an Agreement of the People, preſented by the Nations friends in the Tower, and by an actuall walking up to the iuſt Laws of a Nation, tend<g ref="char:EOLhyphen"/>ing to the beginning of, cheriſhing and nouriſhing of peace, and good will amongſt men; and as to the other part of my Appeal, in relation to my ſelf, as a member of the Com<g ref="char:EOLhyphen"/>mon-wealth, I could willingly (for the obligement of righteouſneſſe and peace, and that theſe two might be inſeparable companions according to the Scriptures) <hi>Forgive, or grant an act of Pardon</hi> to you, and the Generall, under hand and ſeal, if I thought you and he were unable, and could not give me ſatisfaction, and if I were not unwilling to have ſuch a diſhonour and ignominie faſtened upon you; and alſo if I did no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> think he and you would ſcorn it in words, though he hath acted, and yet acts by you, in unlawfull and un<g ref="char:EOLhyphen"/>chriſtian deeds, ſo as that it might be truly ſtiled ſomething of that name from me; but ſeeing he and you have ſuch vaſt ſummes and Lands of the Common-wealths (as well as many of you great Eſtates of your own) as witneſſe your giving the Generall ten thou<g ref="char:EOLhyphen"/>ſand pound, and four thouſand pound a year, and therefore I ſhall expect ſatisfaction for my wrongs, according to <hi>Honor, Conſcience</hi> and <hi>Law,</hi> and thoſe Capital Obliga<g ref="char:EOLhyphen"/>tions, in Capital Letters recited; but if I cannot have Juſtice of you, and if the Gene<g ref="char:EOLhyphen"/>ral,
+<pb n="18" facs="tcp:117665:10"/> and you continue to deal unjuſtly with me, or to murder me, for you have gone the ready way; for I had been inhumanely murdered and ſtarved long ſince (I refer it to all the Souldiers and people of the Nation, that are for Righteouſneſs and Freedom) if I had not had a little of my own left, for my ſupport in my barbarous, illegal, and inhumane priſon; and if I had not had ſome Chriſtian friends to manifeſt affection to my cauſe and perſon; which kindneſs, I did refuſe, (for ſome time) becauſe I would wait and ſee, whether you would walk juſtly and honorably. But I conſidered with my ſelf (after many fruitleſs Addreſſes to you) That though my principle was to do good, rather then receive, and my imperfection and ſin, not to do good when I am able, yet I was not in a capacity ſo to do, being under the hand of TYRANNY: And alſo, I conſidered it was Ten thouſand times more righteous, unblameable, honorable, and juſt, for me to receive the manifeſtations of my friends affections; then it may for you to force the Nations riches, and perſons, to inrich your ſelves, and act againſt their Laws and Liberties, contrary to the capital obligations before recited; and alſo I con<g ref="char:EOLhyphen"/>ſidered, That it did evidently appear to me by your actions, and the will and pleaſure of the Grandees, that it might be your deſigne to force me to neceſſities, which is very <hi>un-Chriſtian, Cruel, Ravenous, Tyrannous,</hi> and inſatiable; thereby thinking to make me ſtab my precious <hi>Conſcience</hi> (which I hope the ſtrength of the moſt high, will ſtill keep me in) and deny my precious <hi>Cauſe,</hi> which is the cauſe of the Officers and Souldiers of the Army, and the people of the Nation. And you, or the <hi>Steermen,</hi> and <hi>Grandees</hi> for you, thought that neceſſity might make me to do, that which you do out of unholy fear of them (for whileſt my <hi>Appeal</hi> was in the Houſe, a Letter came from the General, or other Grandees to ſome Member or Members, which was con<g ref="char:EOLhyphen"/>demned, and abhorred in the King, <hi>as a pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>verting of Juſtice,</hi> as in my Appeal is re<g ref="char:EOLhyphen"/>lated out of King <hi>Charls</hi> his Caſe; or elſe out of manifeſt, unwarrantable love unto your ſelf, <hi>viz.</hi> To the denying of all thoſe obligations of God, Law, Nature, and Juſtice for the glories of the world; which un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſt kinde of actings, have wilfully de<g ref="char:EOLhyphen"/>ſtroyed perſons, Families, and Nations, and is the ground of the conſumption of civil Wars, as Maſter <hi>Pym</hi> ſaid in Parliament, againſt the Earl of <hi>Strafford.</hi> And therefore Sir, let me tell you in my <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yrannical, Illegal, and Injurious impriſonment, That all thoſe capital Obligations, are injuriouſly perverted, and abuſed, to the diſhonor of the Nation and your ſelves; and inſtead of the Juſt, <hi>viz.</hi> Principles of NATURE, I muſt put Acting up to Principles of UNNATURALNES, <hi>Jude</hi> 10. But what things they know (and have declared) naturally, as bruit Beaſts, in thoſe things they do corrupt them<g ref="char:EOLhyphen"/>ſelves, <hi>Ver.</hi> 19. Separating themſelves (from other Members of Parliament) as if they were holier, and juſter then they; whereas you are more unjuſt, becauſe you have more obli<g ref="char:EOLhyphen"/>gations upon you to juſtice, <hi>viz.</hi> The blood of the King, and Lords, inſtead of Law, I muſt put LAWLESSNESS; inſtead of Reaſon, I muſt put UNREA<g ref="char:EOLhyphen"/>SONABLENESS; inſtead of Acting up to the Commands. In plain, and un<g ref="char:EOLhyphen"/>deniable Scriptures, I muſt put ANTISCRIPTURISTS, not in words, but in oppreſſing power, and converſation; inſtead of Declarations upon Declarations, I muſt put VIOLATION of them; inſtead of Imprecations, I muſt put PERFIDIOUSNESS to Conſcience, and people; and the judgments of God hovering over your heads, according to your ſolemn deſires, that the people might ſay <hi>Amen:</hi> Inſtead of Acting up to the nature of Oaths, I muſt put UNFAITH<g ref="char:EOLhyphen"/>NESS; inſtead of Acting up to Covenants, I muſt put TRUCE-BREAK<g ref="char:EOLhyphen"/>INGS; inſtead of Acting up to principles of Conſcience, I muſt put UNCON<g ref="char:EOLhyphen"/>SCIONABLENESS; inſtead of principles of ſerious Engagement, I muſt put walking up to principles of DISHONESTY; inſtead of VICTORIES, and POWER to do good, I muſt put walking, as if you had no power at all, and
+<pb n="19" facs="tcp:117665:10"/> ſo denying the glory of God; inſtead of walking up to principles of Agreement of the people, I muſt put DELUSION and VARIANCE; inſtead of walk<g ref="char:EOLhyphen"/>ing up to principles of a true Faſt, I muſt put OPPRESSION and CRUELTY; inſtead of walking up to principles of true honor, I muſt put DISHONOR; inſtead of acting up to the name of Parliaments, I muſt put acting up like <hi>Corrupt minded men;</hi> inſtead of acting up to principles of obſervation of a <hi>Sabbath,</hi> I muſt put <hi>caſe and reſt in wickedneſs, and prophaneneſs of the Lords holineſs;</hi> inſtead of <hi>Magiſtracy,</hi> I muſt put as <hi>God and Nature, K.</hi> James <hi>and your ſelves have ſaid, Tyranny;</hi> inſtead of <hi>Goverment,</hi> according to the inſtitution of <hi>God,</hi> and the uncor<g ref="char:EOLhyphen"/>rupt order of <hi>Nature,</hi> I muſt ſay according to principles of DISORDER; in<g ref="char:EOLhyphen"/>ſtead of walking up to a conſcientious reſpect of the <hi>wounds of the Nation,</hi> I muſt put <hi>walking unjuſtly,</hi> cauſing more <hi>wounds, inflamations, and diſtempers,</hi> both of <hi>friends and enemies,</hi> and ſo to lay <hi>foundation for blood and cruelty;</hi> inſtead of your rending a <hi>Parliament,</hi> out of declared <hi>zeal for Juſtice,</hi> I muſt put your rending a <hi>Parliament, to carry on your own corrupt, ambitious Intereſt, tending to exalt your ſelves, above the per<g ref="char:EOLhyphen"/>ſons of your Brethren the Laws of God and Nature, the Scriptures, and all the Capital Ob<g ref="char:EOLhyphen"/>ligations of Juſtice and Mercy;</hi> inſtead of your true declared <hi>Nature of doing juſtice upon the King,</hi> I muſt put, <hi>you have cut him off to make your ſelves Kings and Lords over the peoples Laws and Liberties, though not Titularly ſo;</hi> inſtead of principles of <hi>Freedom,</hi> I muſt put SLAVERY; inſtead of <hi>Juſtice,</hi> I put INJUSTICE; inſtead of <hi>Mercy,</hi> I muſt put UNMERCIFULNESS. <hi>Hear O Heavens, and judg O Earth! O Lord hear, and have mercy upon thy people; and if it be thy will, change the hearts of thoſe that pretend to Righteouſneſs, and act contrary to as high Obligations, as ever have been expreſſed by thy Self in Scriptu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, by thy Saints and Servants.</hi>
+            </p>
+            <p>And therefore, Maſter Speaker, Let me deſire your Houſe in all ſeriouſneſs and ſin<g ref="char:EOLhyphen"/>cerity of Conſcience, to conſider and weigh, and turn from your iniquities, and be a preſident to the Nation, of Judgment and Juſtice, and look upon the cruelty exerciſed towards me, from firſt to laſt, contrary to the Freedoms of the Nation (and i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may be any mans caſe as well as mine.) And that it doth exhauſt ſuch Language from me, contrary to my own temper, and diſpoſition of ſpirit. And truly Sir, though the Gene<g ref="char:EOLhyphen"/>ral, Lieutenant General, and Commiſſary General (they being men whom I have formerly honored much, in ſubordination unto my God, and the Freedoms of my Coun<g ref="char:EOLhyphen"/>trey) may, it may be, thirſt after my blood <hi>(which is the Nations blood)</hi> (as Mr. <hi>St. John</hi> ſaid againſt the Earl of <hi>Strafford, A Nation is to be accounted unto for the loſs of the meaneſt member) as the Hart thirſts after the Riv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs of waters;</hi> though it were a more worthy thirſt after the performance of thoſe glorious Obligations in themſelves and o<g ref="char:EOLhyphen"/>thers; which would cauſe peace of Conſcience to themſelves, and joy, peace, and unity to all the wel-affected in the Nation. But truly, as for my life or blood, I know that is the moſt they can take away; and if the Lord ſhould give them ſo much power, I can uſe the former part of Chriſts prayer, <hi>viz. Father, forgive them;</hi> but not the latter, <hi>viz. For t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey know not what they do.</hi> For their glorious ſplendid Declarations de<g ref="char:EOLhyphen"/>clare their knowledg; and if it were not my Fathers will, or the Ordinance of the Eternal GOD, That innocent blood, under the Altar, ſhould cry out, I ſhould deſire. That there might be no Vengeance taken for me, for it ſhall ſuffice me that I go unto God, and ſhall ceaſe in imperfection and ſin, and be out of the race of the new, glorious, ambitious tyranny, and perfideouſneſs of the Earth; the tyranny of Death is but ſhort, and I hope the Lord will m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke it ſweet unto me, to give teſtimony to himſelf for the land of my nativity; And to add unto the former Tyrannies, and bondages exerciſed towards me: A pretty while after my firſt coming, I was denied the free and juſt acceſs of many of my friends unto me (to
+<pb n="20" facs="tcp:117665:11"/> give me a viſite) by the Tyrannical Governor <hi>Whitchcock,</hi> contrary to Law, Reaſon, or Chriſtianity, for which thing he had no Warrant at all from the Houſe, but your Arbri<g ref="char:EOLhyphen"/>trarineſs made him alſo (to ingratiate himſelf, for it is well known he is but a friend to the Army and you for his own ends) ſtretch beyond the bounds that indeed you had ſet him, and ſo he hath acted as if he were Lord and Maſter of you, as well as of our ſupream Laws, Liberties, and ſafeties, and for ought I know, he intends to be the Janizary to murder me under his illegal juriſdiction; and indeed I heard that L.G <hi>Cromwel</hi> himſelf ſhould call him a Sot, or ſome ſuch like name, whereas he is made a Juſtice of the Peace and <hi>Qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rum:</hi> and furthermore, I could not have ſo much leave of him to have the Chriſtian ſociety of Mr. <hi>Bacon</hi> here in the Caſtle, but I muſt be fain to hear their Prieſts here in the Caſtle or none, concerning whom I hear abundance of hypocriſie and diſſimulation; and alſo though Lieut. General <hi>Cromwel</hi> gave order to <hi>Whitchcock</hi> the Go<g ref="char:EOLhyphen"/>vernor to uſe Mr. <hi>Bacon</hi> with all civility and reſpect; and though he is alſo convinced in his conſcience, as he hath declared to ſome, that I will not ſtir, yet he maliciouſly, and unrighteouſly, hath not given me that liberty and freedom that he might, though he hath given many of the late Kings party far greater <hi>(viz.)</hi> Parol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, &amp;c.</p>
+            <p>But Sir let me tell you, if I had never ſo much liberty and freedom<g ref="char:punc">▪</g> I would not for millions of the gold of <hi>Ophir</hi> betray the Cauſe of my Country, ſo as to flinch; and indeed you may impriſon and deſtroy my body, but my ſpirit you cannot, and the lively ap<g ref="char:EOLhyphen"/>pearance of my blood may riſe in others when you think it may be forgotten; if I am mur<g ref="char:EOLhyphen"/>dered, butchered, maſſacred ſtarved, or poyſoned, or what not, by the enemies of the Lord and my Countries juſt Laws<g ref="char:punc">▪</g> Libertie and ſafeties (for they may do one as well as any thing elſe they have done) and if you mean by liberty of Conſcience to take ſuch large liberty of conſcience to your ſelves, farwel all maner of Juſtice and Peace; and the dealings with me, are contrary to the prime undeniable Laws of Nature and capitall obligations of mankinde, and which Presbyterians, Epiſcopals, Independents, &amp;c. that have had any unbiaſed reaſon in them, have granted before the blood of War, and by ſuch actions as theſe, all the blood that hath been ſhed (which is alſo of ten thouſand times and unexpreſſibly of more value then all the treaſure that hath been ſpent) is not worth a farthing: and truly Sir, as one ſaith, writing againſt the cruelty of the <hi>Spaniards</hi> to the Native people of <hi>Mercico</hi> (as I remember, calling themſelves Chriſtians as you do) That it is not good to meaſure the God of the Chriſtians by the actions of thoſe that are called his ſervants. If there be any ſparks of God, or humanity in you, it may be you may conſider a bleeding Nation.</p>
+            <p>Sir, I pray read this to the Houſe; and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> further deſire, That the names of thoſe men may be certified to the Nation, that committed me contrary to thoſe capital Obligations, in capital Letters; that the Nation may know their Friends, and that the Chriſtians, and good Common-wealths-men in the Houſe, may clear themſelves to the Nation, from ſuch abominable Facts, tending to the total ſubverſion of humane ſociety, and conſe<g ref="char:EOLhyphen"/>quently, all Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſtianity, if they pleaſe; for I beleeve the hearts of true Chriſtians will be truly pierced with ſuch uſage. When <hi>Paul</hi> reaſoned of Temperance and Judg<g ref="char:EOLhyphen"/>ment to come, <hi>Felix</hi> trembled. And I have read as I remember, when <hi>Tully</hi> pleaded for <hi>Liggurius, Caeſar</hi> trembled, and the Bills of Accuſation ſell out of his hands. And Maſter Solicitor <hi>Cook</hi> ſaith in King <hi>Charls</hi> his Caſe, <hi>page</hi> 38. There are but two things deſirable to make a dumb man eloquent, namely, a good Cauſe, and good Judges, (the former I have ſufficiently, and the later I want:) The firſt procures juſtice of Heaven; the ſe<g ref="char:EOLhyphen"/>cond juſtice upon Earth: So in great haſte I remain,</p>
+            <closer>
+               <signed>
+                  <hi>The Lords and the Peoples,</hi> William Bray.</signed>
+               <dateline>
+                  <date>
+                     <hi>July</hi> 17. 1649.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:117665:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
